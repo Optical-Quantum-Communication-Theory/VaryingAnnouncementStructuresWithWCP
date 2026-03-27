@@ -1,0 +1,42 @@
+# Formatted as a white list
+*
+
+# Let it explore sub directories
+!*/
+
+# Let it track this file and other git files
+!.gitignore
+!.gitmodules
+!.gitattributes
+!.mailmap
+!*.keep
+!*.gitkeep
+
+# -- Base file types to track --
+
+# Text
+!*.md
+!*.rst
+!*.txt
+
+# Programming Languages and scripts
+!*.m
+!*.py
+!*.sh
+!*.ps1
+!*.bat
+
+# workflows
+!*.yml
+!*.yaml
+
+# -- docs --
+
+# Other file types allowed in docs
+!docs/*.svg
+!docs/*.bib
+!docs/*.tex
+!docs/Makefile
+
+# Always ignore the docs build folder
+docs/build/
