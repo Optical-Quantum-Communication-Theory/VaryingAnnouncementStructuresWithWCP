@@ -1,6 +1,6 @@
 # Performance of BB84 without decoy states under varying announcement structures
 
-This is a public version of the code used in *Performance of BB84 without decoy states under varying announcement structures* \[[arXiv](https://arxiv.org/abs/2603.22448)\]. This was built for [v2.1.0](https://github.com/Optical-Quantum-Communication-Theory/openQKDsecurity/releases/tag/v2.1.0) of the Open QKD Security package.
+This is a public version of the code used in *Performance of BB84 without decoy states under varying announcement structures* \[[arXiv](https://arxiv.org/abs/2603.22448), [DOI](https://doi.org/10.1103/ybl1-j3td)\]. This was built for [v2.1.0](https://github.com/Optical-Quantum-Communication-Theory/openQKDsecurity/releases/tag/v2.1.0) of the Open QKD Security package.
 
 In the following table we list each main file needed to be run to reproduce the data for each figure:
 
